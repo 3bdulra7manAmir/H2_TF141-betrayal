@@ -1,3 +1,15 @@
-<a href="https://discord.gg/CHZea8zvBG" rel="nofollow"><img src="https://camo.githubusercontent.com/59577016fabd1d32fd232283ef81c07b381c74614d75d47556307a8efb44ba60/68747470733a2f2f696d672e736869656c64732e696f2f646973636f72642f3732353035373838363935383338373339333f6c6162656c3d446973636f7264266c6f676f3d646973636f7264" alt="Discord" data-canonical-src="https://img.shields.io/discord/725057886958387393?label=Discord&amp;logo=discord" style="max-width: 100%;"></a>
+![License](https://img.shields.io/badge/license-BSD--3-orange) ![Bugs](https://img.shields.io/badge/bugs-0%20open-brightgreen) ![Build](https://img.shields.io/badge/Build-passing-brightgreen?logo=github) [![Members](https://img.shields.io/discord/750034898680807434?label=members&logo=discord&color=7289da)](https://discord.gg/CHZea8zvBG)
 
-# h2-TF141-betrayal
+# H2-TF141-betrayal
+
+Task Force 141 Betrays Shadow Company...
+
+![Screenshot (215)](https://github.com/user-attachments/assets/0c38e159-881d-4833-9935-88083fab2bd8)
+
+![Screenshot (214)](https://github.com/user-attachments/assets/c1a0a8d3-b065-4ad6-81f5-ca8546a631d8)
+
+![Screenshot (213)](https://github.com/user-attachments/assets/f3d6977e-be36-475f-b869-7f4f28fc094e)
+
+![Screenshot (217)](https://github.com/user-attachments/assets/5120b41e-65b6-4389-9514-bc5c1efbaef6)
+
+![Screenshot (216)](https://github.com/user-attachments/assets/96bd28ca-25d5-40f5-a082-c76ec2fe2bc2)
